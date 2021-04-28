@@ -5,7 +5,7 @@
 <html>
 <head>
   <title>Tasks</title>
-  <meta NAME="Author" CONTENT="Shimon&Yair">
+  <meta NAME="Author" CONTENT="Shimon&Yair test">
   <meta http-equiv="Content-Type" content="text/html; charset=Windows-1255">	
   <Link REL=STYLESHEET HREF="../style.css" TYPE="text/css">
 
