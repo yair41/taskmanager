@@ -36,7 +36,7 @@
 		</tr>
     </table>
 </BODY>
-</html>
+</html>asdasdasdasad
 <?
 function ReadIndexOption()
 {
